@@ -1,14 +1,26 @@
 {
   "name": "andradeleo-theme",
-  "displayName": "andradeleo-theme",
+  "displayName": "andrleo theme",
   "description": "My customized VS code theme. Visit my portfolio https://www.andradeleo.com.br",
   "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.125.0"
-  },
+  "keywords": [
+    "dark",
+    "theme",
+    "color-theme"
+  ],
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andradeleo/vs-code-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andradeleo/vs-code-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.125.0"
+  },
   "contributes": {
     "themes": [
       {

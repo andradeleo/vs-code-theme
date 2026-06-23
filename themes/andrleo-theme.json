@@ -1,5 +1,9 @@
 {
-  "name": "andrleo-theme",
+  "$schema": "vscode://schemas/color-theme",
+  "name": "andrleo theme",
+  "author": "Leonardo Andrade",
+  "semanticClass": "theme.andrleo",
+  "semanticHighlighting": true,
   "colors": {
     "editor.background": "#263238",
     "editor.foreground": "#eeffff",
