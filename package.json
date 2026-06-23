@@ -1,0 +1,21 @@
+{
+  "name": "andradeleo-theme",
+  "displayName": "andradeleo-theme",
+  "description": "My customized VS code theme. Visit my portfolio https://www.andradeleo.com.br",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "andrleo-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/andrleo-theme.json"
+      }
+    ]
+  }
+}
