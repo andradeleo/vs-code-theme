@@ -2,8 +2,13 @@
   "name": "andradeleo-theme",
   "displayName": "andrleo theme",
   "description": "My customized VS code theme. Visit my portfolio https://www.andradeleo.com.br",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "icon": "icon.png",
+  "publisher": "andradeleo",
+  "license": "MIT",
+  "scripts": {
+    "package": "npx --yes @vscode/vsce package"
+  },
   "keywords": [
     "dark",
     "theme",
@@ -12,6 +17,11 @@
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#09090B",
+    "theme": "dark"
+  },
+  "homepage": "https://www.andradeleo.com.br",
   "repository": {
     "type": "git",
     "url": "https://github.com/andradeleo/vs-code-theme.git"
