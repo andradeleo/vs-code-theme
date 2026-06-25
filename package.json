@@ -3,6 +3,7 @@
   "displayName": "andrleo theme",
   "description": "My customized VS code theme. Visit my portfolio https://www.andradeleo.com.br",
   "version": "0.0.1",
+  "icon": "icon.png",
   "keywords": [
     "dark",
     "theme",
